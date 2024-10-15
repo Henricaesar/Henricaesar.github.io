@@ -94,8 +94,9 @@ body {
     color: aqua;
 }
 .home-img img{
-    max-width: 50vh;
-    margin-right: -20px;
+    max-width: 100vh;
+    height: 50vh;
+    margin-right: -90px;
     opacity: 0;
     animation: zoomIn 1s ease forwards, floatImage 4s 
     ease-in-out infinite;
